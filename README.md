@@ -38,7 +38,7 @@ powerbi/netflix.pbix
 
 Dashboard Preview:
 
-![Dashboard](Netflix_dashboard.png)
+<img src="Netflix_dashboard.png" width="700">
 
 ## How to Run
 
@@ -46,8 +46,10 @@ pip install -r requirements.txt
 
 Save both files.
 
-## After this your folder should contain:
 
+## Project Structure
+
+```text
 Netflix-Data-Analytics-Project/
 ├── data/
 ├── notebooks/
@@ -55,3 +57,4 @@ Netflix-Data-Analytics-Project/
 ├── images/
 ├── requirements.txt
 └── README.md
+```
