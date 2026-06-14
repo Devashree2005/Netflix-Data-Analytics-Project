@@ -1,9 +1,9 @@
-Netflix Data Analytics Project
+## Netflix Data Analytics Project
 
-Objective
+## Objective
 Analyze Netflix content trends using Python, SQL, and Power BI.
 
-Tools Used
+## Tools Used
 Python
 Pandas
 NumPy
@@ -12,14 +12,14 @@ Seaborn
 SQL
 Power BI
 
-Workflow
+## Workflow
 Data Cleaning
 Exploratory Data Analysis
 SQL Analysis
 Dashboard Creation
 Business Recommendations
 
-Key Insights
+## Key Insights
 Movies dominate Netflix catalog
 Most content falls between 80–120 minutes
 Content growth increased after 2015
@@ -30,21 +30,25 @@ notebooks/
 powerbi/
 images/
 
+## Power BI Dashboard
 
-Dashboard Preview
+Power BI dashboard file:
 
-(Add dashboard screenshot later)
+powerbi/netflix.pbix
 
-How to Run
+Dashboard Preview:
+
+![Dashboard](Netflix_dashboard.png)
+
+## How to Run
 
 pip install -r requirements.txt
 
 Save both files.
 
-After this your folder should contain:
+## After this your folder should contain:
 
 Netflix-Data-Analytics-Project/
-
 ├── data/
 ├── notebooks/
 ├── powerbi/
